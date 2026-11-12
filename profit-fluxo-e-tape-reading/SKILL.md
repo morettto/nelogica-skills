@@ -32,3 +32,9 @@ Fluxo no Profit é sempre um de três: **intenção** (o que está no livro), **
 - Delta não é saldo de contratos do dia do usuário; é diferença entre negócios de compra e de venda no nível/período exibido.
 - Times & Trades depende do feed de negócios do ativo; em ativo com pouca liquidez as abas de player ficam vazias e isso não é defeito.
 - Coloração por ranking de tape reading é configuração, não indicador: se as cores não aparecem, é coluna/ranking desligado.
+
+## Arquivos de referência
+
+- `refs/01-bookmap.md` — profit-fluxo-e-tape-reading — BookMap (14 verbetes)
+- `refs/02-plugin-tape-reading.md` — profit-fluxo-e-tape-reading — Plugin Tape Reading (10 verbetes)
+- `refs/03-ferramentas-de-fluxo.md` — profit-fluxo-e-tape-reading — Ferramentas de Fluxo (9 verbetes)

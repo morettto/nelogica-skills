@@ -34,3 +34,11 @@ Cotação Rápida, Grade de Cotações, Monitor de Mercado, Visão de Mercado, M
 1. Diga o **caminho de menu** (a maioria das ferramentas abre em Ferramentas ou Negociação) e o que a ferramenta mede, não só o nome.
 2. Se a ferramenta depende de versão (ex.: Copilot e Inside Track são Ultra) ou de módulo pago, diga isso antes de ensinar o passo a passo.
 3. Preço, quantidade e cor de cada janela mudam com propriedades — o artigo oficial é a referência, e está na ref correspondente com URL e data.
+
+## Arquivos de referência
+
+- `refs/01-ferramentas-e-funcionalidades.md` — profit-pro-ferramentas — Ferramentas e Funcionalidades (109 verbetes)
+- `refs/02-duvidas-comuns.md` — profit-pro-ferramentas — Dúvidas Comuns (31 verbetes)
+- `refs/03-ordens-oco.md` — profit-pro-ferramentas — Ordens OCO (12 verbetes)
+- `refs/04-replicador-de-ordens.md` — profit-pro-ferramentas — Replicador de Ordens (6 verbetes)
+- `refs/05-tipos-de-ordem.md` — profit-pro-ferramentas — Tipos de Ordem (2 verbetes)

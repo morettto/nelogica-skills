@@ -36,3 +36,18 @@ Detalhes que decidem se a automação roda: conta habilitada, estratégia public
 - "Alarme não dispara" quase sempre é ativo sem negócio no período, condição mal configurada ou alerta silenciado — a Central de Alertas mostra.
 - Hora do servidor: alarme de horário segue o fuso da plataforma, não o do computador.
 - Backtest com contrato contínuo (série histórica) tem descontinuidade no vencimento: resultado em WINFUT não é o resultado do contrato específico.
+
+## Arquivos de referência
+
+- `refs/01-editor-de-estrategias.md` — profit-automacao-alarmes-e-robos — Editor de Estratégias (21 verbetes)
+- `refs/02-automacao-de-estrategias.md` — profit-automacao-alarmes-e-robos — Automação de Estratégias (19 verbetes)
+- `refs/03-loja-de-estrategias.md` — profit-automacao-alarmes-e-robos — Loja de Estratégias (11 verbetes)
+- `refs/04-duvidas-comuns.md` — profit-automacao-alarmes-e-robos — Dúvidas Comuns (5 verbetes)
+- `refs/05-replay-de-mercado.md` — profit-automacao-alarmes-e-robos — Replay de Mercado (4 verbetes)
+- `refs/06-robos.md` — profit-automacao-alarmes-e-robos — Robôs (4 verbetes)
+- `refs/07-robo-euroinvest.md` — profit-automacao-alarmes-e-robos — Robô Euroinvest (3 verbetes)
+- `refs/08-profit-ai-code-builder.md` — profit-automacao-alarmes-e-robos — Profit AI Code Builder (2 verbetes)
+- `refs/09-robo-2mv-force-at.md` — profit-automacao-alarmes-e-robos — Robô 2MV Force AT (2 verbetes)
+- `refs/10-robo-maximas-e-minimas.md` — profit-automacao-alarmes-e-robos — Robô Máximas e Mínimas (2 verbetes)
+- `refs/11-robo-termometro-de-mercado.md` — profit-automacao-alarmes-e-robos — Robô Termômetro de Mercado (2 verbetes)
+- `refs/12-robos-fgz.md` — profit-automacao-alarmes-e-robos — Robôs FGZ (2 verbetes)

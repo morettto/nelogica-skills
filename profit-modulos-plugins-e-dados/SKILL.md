@@ -41,3 +41,27 @@ Regra: sem o módulo, o ativo não aparece para operar, mesmo com a plataforma e
 - RTD/DDE não é API de ordem: para enviar ordem por fora é ProfitDLL (com as permissões da conta), não Excel.
 - Módulo contratado mas não ativo normalmente é licença no usuário certo (mesma conta Nelogica) ou versão da plataforma desatualizada.
 - Plugin de terceiro segue o fornecedor para suporte de conteúdo; a Nelogica documenta a instalação e a contratação.
+
+## Arquivos de referência
+
+- `refs/01-modulo-de-opcoes.md` — profit-modulos-plugins-e-dados — Módulo de Opções (19 verbetes)
+- `refs/02-datafeed-dll.md` — profit-modulos-plugins-e-dados — DataFeed - DLL (17 verbetes)
+- `refs/03-plugin-tradencia.md` — profit-modulos-plugins-e-dados — Plugin Tradencia (7 verbetes)
+- `refs/04-plugin-long-short.md` — profit-modulos-plugins-e-dados — Plugin Long & Short (6 verbetes)
+- `refs/05-modulo-us-equities.md` — profit-modulos-plugins-e-dados — Módulo US Equities (5 verbetes)
+- `refs/06-indicador-pnb-poe-no-bolso.md` — profit-modulos-plugins-e-dados — Indicador PNB (Põe no Bolso) (4 verbetes)
+- `refs/07-modulo-nquant.md` — profit-modulos-plugins-e-dados — Módulo NQuant (4 verbetes)
+- `refs/08-modulos-opcionais.md` — profit-modulos-plugins-e-dados — Módulos Opcionais (3 verbetes)
+- `refs/09-plugin-somosrenko.md` — profit-modulos-plugins-e-dados — Plugin SomosRenko (3 verbetes)
+- `refs/10-duvidas-comuns.md` — profit-modulos-plugins-e-dados — Dúvidas Comuns (2 verbetes)
+- `refs/11-indicador-fgz.md` — profit-modulos-plugins-e-dados — Indicador FGZ (2 verbetes)
+- `refs/12-indicador-opp-joy.md` — profit-modulos-plugins-e-dados — Indicador Opp Joy (2 verbetes)
+- `refs/13-indicador-rafa-ansani.md` — profit-modulos-plugins-e-dados — Indicador Rafa Ansani (2 verbetes)
+- `refs/14-indicadores-2mv.md` — profit-modulos-plugins-e-dados — Indicadores 2MV (2 verbetes)
+- `refs/15-indicadores-amz-2000.md` — profit-modulos-plugins-e-dados — Indicadores AMZ 2000 (2 verbetes)
+- `refs/16-indicadores-eduindex.md` — profit-modulos-plugins-e-dados — Indicadores EduIndex (2 verbetes)
+- `refs/17-indicadores-phicube.md` — profit-modulos-plugins-e-dados — Indicadores Phicube (2 verbetes)
+- `refs/18-modulo-cme.md` — profit-modulos-plugins-e-dados — Módulo CME (2 verbetes)
+- `refs/19-modulo-dji.md` — profit-modulos-plugins-e-dados — Módulo DJI (2 verbetes)
+- `refs/20-plugin-toscana.md` — profit-modulos-plugins-e-dados — Plugin Toscana (2 verbetes)
+- `refs/21-sinais-internacionais.md` — profit-modulos-plugins-e-dados — Sinais Internacionais (1 verbetes)

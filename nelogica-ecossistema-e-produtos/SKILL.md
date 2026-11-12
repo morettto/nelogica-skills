@@ -41,3 +41,18 @@ A Central de Ajuda tem uma biblioteca de mercado (IBOV x IBOVRT, DOLINDEX, BDRs,
 - Preço de assinatura varia por canal (direto, corretora, white label, RLP/RLC). Nunca dê um preço único sem dizer o canal e a data.
 - "Tenho o Profit da corretora X" não significa contrato com a Nelogica: suporte de cobrança é com X.
 - Conta Safe, Copy Invest e Loja de Estratégias têm regras próprias de elegibilidade e risco — leia o artigo da seção antes de afirmar que está disponível em qualquer versão.
+
+## Arquivos de referência
+
+- `refs/01-suporte-tecnico.md` — nelogica-ecossistema-e-produtos — Suporte Técnico (22 verbetes)
+- `refs/02-conhecimentos-gerais.md` — nelogica-ecossistema-e-produtos — Conhecimentos Gerais (20 verbetes)
+- `refs/03-duvidas-comuns.md` — nelogica-ecossistema-e-produtos — Dúvidas Comuns (20 verbetes)
+- `refs/04-copy-invest.md` — nelogica-ecossistema-e-produtos — Copy Invest (15 verbetes)
+- `refs/05-artigos-uteis.md` — nelogica-ecossistema-e-produtos — Artigos úteis (9 verbetes)
+- `refs/06-introducao-ao-mercado-de-opcoes.md` — nelogica-ecossistema-e-produtos — Introdução ao Mercado de Opções (9 verbetes)
+- `refs/07-iniciando-no-mercado.md` — nelogica-ecossistema-e-produtos — Iniciando no Mercado (8 verbetes)
+- `refs/08-connect-chat.md` — nelogica-ecossistema-e-produtos — Connect Chat (6 verbetes)
+- `refs/09-calculadora-de-imposto-de-renda-akeloo.md` — nelogica-ecossistema-e-produtos — Calculadora de Imposto de Renda - Akeloo (4 verbetes)
+- `refs/10-conhecimento-de-mercado.md` — nelogica-ecossistema-e-produtos — Conhecimento de Mercado (2 verbetes)
+- `refs/11-trade-arena.md` — nelogica-ecossistema-e-produtos — Trade Arena (2 verbetes)
+- `refs/12-setups-operacionais.md` — nelogica-ecossistema-e-produtos — Setups Operacionais (1 verbetes)

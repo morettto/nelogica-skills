@@ -39,3 +39,19 @@ O mesmo Profit é vendido (a) direto pela Nelogica e (b) pela corretora ou mesa 
 ## Refs
 
 01 versões e requisitos · 02 contratação e pagamento · 03 upgrade e cancelamento · 04 mobile · 05 web · 06 grupos premium e módulos de assinatura · mais os artigos por seção. Cada entrada traz a URL e a data de atualização do artigo oficial.
+
+## Arquivos de referência
+
+- `refs/00-planos-e-precos.md` — Planos e preços do Profit — como responder sem chutar (4 verbetes)
+- `refs/01-ferramentas-e-funcionalidades-mobile.md` — profit-pro-plataformas-versoes-e-licencas — Ferramentas e Funcionalidades - Mobile (21 verbetes)
+- `refs/02-duvidas-comuns.md` — profit-pro-plataformas-versoes-e-licencas — Dúvidas Comuns (18 verbetes)
+- `refs/03-profit-ultra.md` — profit-pro-plataformas-versoes-e-licencas — Profit Ultra (17 verbetes)
+- `refs/04-contratacao-via-corretora.md` — profit-pro-plataformas-versoes-e-licencas — Contratação via corretora (15 verbetes)
+- `refs/05-pagamentos-e-cobrancas.md` — profit-pro-plataformas-versoes-e-licencas — Pagamentos e Cobranças (13 verbetes)
+- `refs/06-software-hardware.md` — profit-pro-plataformas-versoes-e-licencas — Software & Hardware (13 verbetes)
+- `refs/07-assinaturas.md` — profit-pro-plataformas-versoes-e-licencas — Assinaturas (11 verbetes)
+- `refs/08-negociacao-mobile.md` — profit-pro-plataformas-versoes-e-licencas — Negociação - Mobile (9 verbetes)
+- `refs/09-faq-perguntas-frequentes.md` — profit-pro-plataformas-versoes-e-licencas — FAQ - Perguntas Frequentes (8 verbetes)
+- `refs/10-primeiros-passos.md` — profit-pro-plataformas-versoes-e-licencas — Primeiros passos (6 verbetes)
+- `refs/11-grupos-premium.md` — profit-pro-plataformas-versoes-e-licencas — Grupos Premium (1 verbetes)
+- `refs/12-simulador.md` — profit-pro-plataformas-versoes-e-licencas — Simulador (1 verbetes)

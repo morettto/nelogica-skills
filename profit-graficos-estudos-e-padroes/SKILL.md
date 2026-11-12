@@ -34,3 +34,11 @@ São ~89 artigos de indicadores na Central de Ajuda (médias móveis, MACD, ADX,
 - "Não aparece o indicador X" costuma ser versão da plataforma ou módulo/plugin não contratado, não erro do gráfico.
 - Histórico curto de candles/backtest se resolve nas configurações de séries históricas, não reinstalando a plataforma.
 - Indicador que multiplica candles (Renko, point & figure) muda a série: volume e média calculados sobre ela não são iguais aos do candle de tempo.
+
+## Arquivos de referência
+
+- `refs/01-indicadores.md` — profit-graficos-estudos-e-padroes — Indicadores (89 verbetes)
+- `refs/02-estudos.md` — profit-graficos-estudos-e-padroes — Estudos (27 verbetes)
+- `refs/03-duvidas-comuns.md` — profit-graficos-estudos-e-padroes — Dúvidas Comuns (22 verbetes)
+- `refs/04-ferramentas-graficas.md` — profit-graficos-estudos-e-padroes — Ferramentas Gráficas (18 verbetes)
+- `refs/05-padroes-graficos.md` — profit-graficos-estudos-e-padroes — Padrões Gráficos (12 verbetes)

@@ -1,0 +1,5 @@
+# profit-pro-plataformas-versoes-e-licencas — Grupos Premium
+
+1 artigos da Central de Ajuda da Nelogica (ajuda.nelogica.com.br). Cada verbete traz a URL do artigo original e a data de atualização.
+
+- **Money Club Ações** — Através do Grupo Premium Money Club Ações, você tem acesso a estudos dos 15 principais ativos da B3 que geram maior liquidez, separados por atuação de mercado e diversificação. Todo o estudo possui análise de contexto, padrões de análise gráfica e oportunidades que permitem serem montadas para posição, especulação e proteção com opções. A partir do acesso à comunidade, você tem a melhor forma de investir, sem a necessidade de realizar estudos demorados, basta importar os estudos e aguardar a montagem da posição protegida. Como: Para contratar o grupo premium Money Club Ações, acesse a Profit Store diretamente da sua plataforma através do Menu Ajuda > Profit Store > Grupos Premium. *(fonte: https://ajuda.nelogica.com.br/hc/pt-br/articles/6495757586331-Money-Club-A%C3%A7%C3%B5es, atualizado 2022-08-22)*
