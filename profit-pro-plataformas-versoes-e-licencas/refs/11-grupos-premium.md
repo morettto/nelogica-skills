@@ -1,0 +1,5 @@
+# Grupos Premium
+
+Artigos oficiais da Central de Ajuda Nelogica nesta seção: 1. Cada ficha traz a descrição do artigo e o link com a data de atualização.
+
+- **Money Club Ações** — secao: Grupos Premium atualizado: 2022-06-28 url: https://ajuda.nelogica.com.br/hc/pt-br/articles/6495757586331-Money-Club-A%C3%A7%C3%B5es Através do Grupo Premium Money Club Ações, você tem acesso a estudos dos 15 principais ativos da B3 que geram maior liquidez, separados por atuação de mercado e diversificação. Todo o estudo possui análise de contexto, padrões de análise gráfica e oportunidades que permitem serem montadas para posição, especulação e proteção com opções. A partir do acesso à comunidade, você tem a melhor forma de investir, sem a necessidade de realizar estudos demorados, basta importar os estudos e aguardar a montagem da posição protegida. **Como abrir:** Para contratar o grupo premium Money Club Ações, acesse a Profit Store diretamente da sua plataforma através do Menu Ajuda > Profit Store > Grupos Premium. *(https://ajuda.nelogica.com.br/hc/pt-br/articles/6495757586331-Money-Club-A%C3%A7%C3%B5es, atualizado 2022-08-22)*

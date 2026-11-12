@@ -1,0 +1,5 @@
+# Replicador de Ordens
+
+Artigos oficiais da Central de Ajuda Nelogica nesta seção: 1. Cada ficha traz a descrição do artigo e o link com a data de atualização.
+
+- **FAQ - Perguntas Frequentes sobre Replicador de Ordens** — secao: Replicador de Ordens atualizado: 2026-10-02 url: https://ajuda.nelogica.com.br/hc/pt-br/articles/33342333715739-FAQ-Perguntas-Frequentes-sobre-Replicador-de-Ordens Replicador de Ordens é a tecnologia desenvolvida pela Nelogica que permite enviar ordens em diversas contas de forma automática e simultânea. Neste artigo abordaremos as principais dúvidas relatadas por usuários, além de trazer informações relevantes que podem ajudá-lo no uso do produto. Algumas das dúvidas abordadas neste artigo: **Como abrir:** A contratação é feita diretamente através da NeloStore, a loja de módulos opcionais da Nelogica. Na NeloStore, o pagamento pode ser feito através de cartão de crédito ou PIX. Clique aqui e acesse a página de contratação. Ou ainda, você pode *(https://ajuda.nelogica.com.br/hc/pt-br/articles/33342333715739-FAQ-Perguntas-Frequentes-sobre-Replicador-de-Ordens, atualizado 2026-10-05)*
