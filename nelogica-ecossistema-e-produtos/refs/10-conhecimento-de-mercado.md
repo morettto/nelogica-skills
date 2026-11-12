@@ -1,7 +1,0 @@
-# Conhecimento de Mercado
-
-Artigos oficiais da Central de Ajuda Nelogica nesta seção: 2. Cada ficha traz a descrição do artigo e o link com a data de atualização.
-
-- **Ajustes de ativos** — secao: Conhecimento de Mercado atualizado: 2025-01-28 url: https://ajuda.nelogica.com.br/hc/pt-br/articles/9207085061019-Ajustes-de-ativos Muito utilizado em casos de distorção dos gráficos, os ajustes de ativos são movimentações de mercado que impactam na visualização gráfica. Nos últimos anos, tivemos a ascensão de preços para diversos papéis na Bolsa de Valores, sendo guiada principalmente devido às perspectivas positivas para a economia brasileira. **Como abrir:** É possível visualizar a lista de eventos envolvendo um ativo por meio do menu Notícias: *(https://ajuda.nelogica.com.br/hc/pt-br/articles/9207085061019-Ajustes-de-ativos, atualizado 2025-01-28)*
-
-- **Diferença entre Ordens e Operações** — secao: Conhecimento de Mercado atualizado: 2024-09-04 url: https://ajuda.nelogica.com.br/hc/pt-br/articles/28881123969819-Diferen%C3%A7a-entre-Ordens-e-Opera%C3%A7%C3%B5es Ordens Ordens são intenções de compra ou venda de um determinado ativo. Logo, se temos uma intenção de comprar ou vender um ativo, uma ordem é aberta. Quando executada, a ordem se concretiza participando, de fato, do mercado. *(https://ajuda.nelogica.com.br/hc/pt-br/articles/28881123969819-Diferen%C3%A7a-entre-Ordens-e-Opera%C3%A7%C3%B5es, atualizado 2026-09-23)*
